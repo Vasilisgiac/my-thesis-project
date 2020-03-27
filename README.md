@@ -1,0 +1,2 @@
+# my-thesis-project
+ A Platform for Generating Digital Marketing Content Dynamically This project is a web application through which the manager of an e-shop can automatically update the content of his products, as well as publish the content on social media. It has been built through Visual Studio (2013 version) and technologies such as .NET Framework, ASP.NET, C # and JavaScript have been used for its development.
